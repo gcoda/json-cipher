@@ -1,6 +1,6 @@
 {
   "name": "json-cipher",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "wraps JSON.stringify with crypto.createCipher",
   "main": "index.js",
   "repository": {
